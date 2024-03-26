@@ -12,3 +12,4 @@
 # PROGRAM
 # OUTPUT
 # RESULT
+### The program to implement lexical analyzer is executed and the output is verified.
